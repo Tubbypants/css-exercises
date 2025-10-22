@@ -1,1 +1,16 @@
 /* Add CSS Styling */
+
+.color-white {
+    color: white;
+
+    background-color: black;
+}
+
+.background-yellow {
+    background-color:yellow;
+}
+
+.adjust-size {
+    font-size: 28px;
+    font-family: 'Helvetica', 'Times New Roman', sans-serif;    
+}
